@@ -1,3 +1,3 @@
-# AV Hütte
+# .github
 
-Test
+Provides Readme in organization's profile.
