@@ -2,13 +2,11 @@
 
 Code collaboration for members of [AV Hütte e.V.](https://www.av-huette.de/)
 
-We share repositories of snippets, simple scripts or larger projects for internal use only.
+We share repositories of snippets, simple scripts or larger projects for internal use.
 
-### Contribution
-- Create your own repo or clone an existing one
-- Do not screw up other's git history irreversible (e.g. `git push -f`)
-- Do not commit user sensitive data (or better no data at all) to your repositories
-- Strive for readable code and make use of comments
+See also our [Wiki](https://github.com/av-huette/wiki) *(private)*.
+
+> Unfortunately, you cannot request accesss to this organization via GitHub. Please send an email to [brenner.avh@gmx.de](mailto:brenner.avh@gmx.de) :blush:
 
 ----
 Vivat Crescat Floreat Hütte
